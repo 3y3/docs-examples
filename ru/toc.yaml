@@ -1,0 +1,9 @@
+title: Документация на русском
+href: index.md
+items:
+  - name: Подстраница 1
+    href: subpage-1.md
+  - name: "{{dyn-page-name}}"
+    href: subpage-2.md
+  - name: "{{shared-var}}"
+    href: subpage-3.md

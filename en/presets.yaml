@@ -1,0 +1,5 @@
+default:
+  part-no-localize: Some multi language 文本
+  dyn-page-name: 文本
+  shared-var: |
+    Overriden Stable Product Name
